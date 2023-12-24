@@ -1,2 +1,2 @@
 # SystemVerilog
-Coverage_Mux4-1
+Coverage_Mux
